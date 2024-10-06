@@ -1,0 +1,3 @@
+where flutter dart 
+flutter doctor
+flutter doctor --android-licenses
